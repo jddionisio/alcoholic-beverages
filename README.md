@@ -1,6 +1,7 @@
 # Alcoholic Beverage Recipes
 
-This repository contains a connection of alcoholic beverage recipes that I enjoy. Please contribute your own favorites!
+This repository contains a collection of alcoholic beverage recipes that
+I enjoy. Please contribute your own favorites!
 
 ## Contributing
 
